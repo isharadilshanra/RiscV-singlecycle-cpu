@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This individual project revolves around the creation of a 32-bit non-pipelined RISC-V processor using an FPGA platform. The primary goal is to gain a deep understanding of computer architecture, particularly microprogramming and instruction execution within the RV32I instruction set. The project also involves the implementation of two new instructions, showcasing a solid grasp of micro-architecture and hardware efficiency.
+This project revolves around the creation of a 32-bit non-pipelined RISC-V processor using an FPGA platform. The primary goal is to gain a deep understanding of computer architecture, particularly microprogramming and instruction execution within the RV32I instruction set. The project also involves the implementation of two new instructions, showcasing a solid grasp of micro-architecture and hardware efficiency.
 
 ## Design Approach
 
